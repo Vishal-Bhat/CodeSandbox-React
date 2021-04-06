@@ -7,3 +7,4 @@ A link to all of the code sandbox of React
 4. React fetching API : https://attachments.convertkitcdnm.com/211885/59d5bc6e-d659-4bf6-9f60-e701415bc269/The_React_Data_Fetching_Cheatsheet_(2021)%20(1).pdf
 5. Destructuring the props : https://codesandbox.io/s/jovial-edison-c6u5o?file=/src/Greet.js
 6. Increment the button count : https://codesandbox.io/s/festive-cdn-coq07?file=/src/components/HookComponent.js
+7. Increment, Decrement and Reset along with spread operator : https://codesandbox.io/s/elated-shamir-zt13z?file=/src/components/HookCounter3.js
