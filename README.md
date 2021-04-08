@@ -10,3 +10,4 @@ A link to all of the code sandbox of React
 7. Increment, Decrement and Reset along with spread operator : https://codesandbox.io/s/elated-shamir-zt13z?file=/src/components/HookCounter3.js
 8. The useEffect part1 to render the message of clicks over the title of the browser : https://codesandbox.io/s/elated-zhukovsky-nqr8l?file=/src/Components/HookCounter1.js
 9. Fetch API using Axios : https://codesandbox.io/s/zen-keldysh-h8yv8?file=/src/App.js
+10. Fetch API using async/await functions : https://codesandbox.io/s/dark-morning-ogexo?file=/src/App.js
