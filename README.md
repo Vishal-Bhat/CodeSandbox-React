@@ -12,3 +12,4 @@ A link to all of the code sandbox of React
 9. Fetch API using Axios : https://codesandbox.io/s/zen-keldysh-h8yv8?file=/src/App.js
 10. Fetch API using async/await functions : https://codesandbox.io/s/dark-morning-ogexo?file=/src/App.js
 11. Fetch API using useFetch : https://codesandbox.io/s/objective-tereshkova-1nnp7?file=/src/App.js
+12. Update the browser title using the useEffect : https://codesandbox.io/s/musing-buck-prc0n?file=/src/App.js:160-166
