@@ -16,3 +16,4 @@ A link to all of the code sandbox of React
 13. Initial Jokes Component : https://codesandbox.io/s/compassionate-buck-oeh6i?file=/src/Joke.js
 14. Products React App , fetch from one JSON embedded within the application : https://codesandbox.io/s/awesome-darkness-ghg2n?file=/src/App.js
 15. To Do App checkbox update : https://codesandbox.io/s/bold-brattain-0rym0?file=/src/ToDoItem.js
+16. Converting the Functional to class based components : https://codesandbox.io/s/thirsty-bartik-djy4b?file=/src/index.js
