@@ -14,3 +14,4 @@ A link to all of the code sandbox of React
 11. Fetch API using useFetch : https://codesandbox.io/s/objective-tereshkova-1nnp7?file=/src/App.js
 12. Update the browser title using the useEffect : https://codesandbox.io/s/musing-buck-prc0n?file=/src/App.js:160-166
 13. Initial Jokes Component : https://codesandbox.io/s/compassionate-buck-oeh6i?file=/src/Joke.js
+14. Products React App , fetch from one JSON embedded within the application : https://codesandbox.io/s/awesome-darkness-ghg2n?file=/src/App.js
